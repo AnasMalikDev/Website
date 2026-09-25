@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/AMPro_Tool", "destination": "/AMPro_Tool.html" },
+    { "source": "/(.*)\\.html", "destination": "/$1" }
+  ]
+}
